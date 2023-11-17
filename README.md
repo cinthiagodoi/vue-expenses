@@ -1,4 +1,4 @@
-# Ecoleta
+# Vue Expenses
 
 View project to simulate bank transaction using composition API.
 
@@ -11,7 +11,7 @@ Before you begin, you will need to have the following tools installed on your ma
 🧭 Run Server(Backend)
 ```
 # Clone this repository
-$ git clone git@github.com:cinthiagodoi/
+$ git clone git@github.com:cinthiagodoi/vue-expenses
 
 # Access the project folder in the / cmd terminal
 
